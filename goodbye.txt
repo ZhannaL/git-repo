@@ -1,2 +1,3 @@
 print("GoodBye, World");
-print("gg");
+print("And GoodBye, my dear friend");
+print("BB");
