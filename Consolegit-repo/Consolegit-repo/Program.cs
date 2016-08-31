@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Consolegit_repo {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("hello, my dear friend!");
+            Console.WriteLine("hello, my dear friend! and goodbye!");
             Console.ReadKey();
         }
     }
